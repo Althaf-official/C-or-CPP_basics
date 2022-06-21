@@ -1,0 +1,19 @@
+!SESSION 2022-06-20 23:07:42.805 -----------------------------------------------
+eclipse.buildId=4.24.0.I20220607-0700
+java.version=17.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.cpp.product
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-20 23:10:53.521
+!MESSAGE Indexed 'sample' (1 sources, 0 headers) in 0.105 sec: 1 declarations; 0 references; 1 unresolved inclusions; 0 syntax errors; 3 unresolved names (75%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-20 23:20:43.457
+!MESSAGE Indexed 'sample1' (1 sources, 56 headers) in 0.303 sec: 974 declarations; 1,970 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-21 06:06:05.278
+!MESSAGE Indexed 'sampleOutput' (1 sources, 56 headers) in 0.094 sec: 974 declarations; 1,970 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2022-06-21 06:10:43.641
+!MESSAGE Indexed 'Variable' (1 sources, 56 headers) in 0.092 sec: 974 declarations; 1,970 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
